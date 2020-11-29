@@ -1,2 +1,4 @@
 # Code-Quiz
-Timed quiz game 
+Timed Quiz Game 
+
+<h1>Description<h1>
